@@ -1,2 +1,4 @@
 # Color-Vision
-Color Vision adalah aplikasi Android yang menggunakan CNN untuk mendeteksi warna pada objek
+Color Vision adalah aplikasi Android yang menggunakan teknologi Convolutional Neural Network (CNN) untuk mendeteksi warna pada objek secara akurat. Dirancang khusus untuk membantu penderita buta warna, aplikasi ini menawarkan fitur deteksi warna real-time melalui kamera dan unggahan gambar dari galeri. Dengan antarmuka yang ramah pengguna, aplikasi ini memudahkan penderita buta warna untuk mengenali warna dalam aktivitas sehari-hari.
+
+Color Vision is an Android application that uses Convolutional Neural Network (CNN) technology to accurately detect the color of objects. Specifically designed to assist colorblind individuals, the app offers real-time color detection through the camera and the ability to upload images from the gallery. With a user-friendly interface, this application helps colorblind users recognize colors in their daily activities.
